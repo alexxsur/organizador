@@ -1,0 +1,7 @@
+---
+es:
+  categories:
+    form:
+      name: Nombre
+    new_category: Nueva Categoria
+  hello: Hello world
