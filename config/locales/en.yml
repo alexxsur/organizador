@@ -1,5 +1,10 @@
 ---
 en:
+  activerecord:
+    models:
+      category:
+        one: Category
+        others: Categories
   categories:
     form:
       description: Description
