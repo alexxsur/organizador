@@ -39,6 +39,7 @@ gem "hamlit"
 gem "simple_form"
 gem "annotate"
 gem "rails-i18n"
+gem "devise"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: %i[ windows jruby ]
